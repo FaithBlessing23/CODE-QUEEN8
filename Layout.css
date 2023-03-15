@@ -10,7 +10,9 @@
     padding-top: 50px;
      padding-right: 30px;
      padding-left: 30px;
-
+     border-bottom: 10px solid white;
+     box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.4);
+    
 }
 .sister{
     height: 500px;
@@ -28,7 +30,7 @@
     height: 500px;
     width:445px;
 
-    border-radius: 5px; 
+     /* border-radius: 15px;  */
     text-align: center; 
 
 
@@ -45,12 +47,13 @@
     /* background-color:royalblue; */
     background-color: #00acee;
     /* margin-left: 10px;*/
+    /* border-radius: 15px; */
 } 
 .logo{
     align-items: center;
-    /* padding-top: 20px;
+     padding-top: 20px;
     padding-right:180px;
-    padding-left:180px; */
+    padding-left:180px; 
 }
 button{
     background: #0078d7;
